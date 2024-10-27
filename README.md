@@ -1,8 +1,5 @@
 # Student Group Meeting Management System
-> 1. Manage student group meetings effectively.  
-> 2. Schedule and organize meetings easily.  
-> 3. Keep track of participants and agendas.  
-> 4. Built with PHP and PostgreSQL for backend functionality.  
+Effectively manage student group meetings with streamlined scheduling and organization tools, making it easy to set up meetings and keep everyone on track. Track participants, manage agendas, and stay organized. Built with robust backend functionality using PHP and PostgreSQL for reliable performance.
 
 ## Technologies Used
 - PHP  
